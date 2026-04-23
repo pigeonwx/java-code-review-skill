@@ -1,6 +1,6 @@
 ---
 name: java-code-review
-description: Runs two-pass Java CR on branch diff vs remote main/master: pass-1 with general checklist, pass-2 with custom RAG list; each pass covers whole-diff and per-file review, and tags findings as MUST/SHOULD/NICE. Use when reviewing Java PRs, auditing branch diffs, or requiring structured severity-labeled CR output.
+description: Provides comprehensive code review guidance for Java. Helps catch bugs, improve code quality, and give constructive feedback. Use when reviewing pull requests, conducting PR reviews, reviewing code changes, checking code quality, finding bugs, giving feedback on code.
 ---
 
 # Java Code Review
