@@ -1,5 +1,5 @@
 ---
-name: java-code-review
+name: java-code-review-skill
 description: Provides comprehensive code review guidance for Java. Helps catch bugs, improve code quality, and give constructive feedback. Use when reviewing pull requests, conducting PR reviews, reviewing code changes, checking code quality, finding bugs, giving feedback on code.
 ---
 
